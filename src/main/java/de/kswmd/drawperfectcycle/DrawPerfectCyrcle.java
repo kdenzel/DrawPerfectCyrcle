@@ -1,7 +1,6 @@
 package de.kswmd.drawperfectcycle;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import io.github.bonigarcia.wdm.config.Config;
 import java.awt.Robot;
 import java.awt.event.InputEvent;
 import java.util.Scanner;
