@@ -1,4 +1,4 @@
- name: Build JAR
+name: Build JAR
 
 on:
 
@@ -42,9 +42,9 @@ jobs:
 
     - name: Upload a Build Artifact
 
-     uses: actions/upload-artifact@v3.1.2
+      uses: actions/upload-artifact@v3.1.2
 
-     with:
+      with:
 
     # Artifact name
 
